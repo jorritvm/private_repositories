@@ -1,5 +1,5 @@
 # private_repositories
-Overview of some projects available in my private repositories. Will only be made available for very specific requests (e.g. in the context of selection interviews).
+Overview of some projects available in my **private** repositories. Will only be made available for very specific requests (e.g. in the context of selection interviews).
 
 ## Scala
 ### siam
@@ -10,6 +10,13 @@ A Query Engine for Acyclic Conjunctive Queries using an Apache Arrow in memory d
 
 ### attraction_park_planner
 A Scala vector graphics attraction planner based on the MoVe project.
+
+## Java
+### wikisearch
+Parallelizing the Wikipedia search engine using Fork-Join.
+
+### wikistore
+Implementating a distributed wikipedia article store using Java RMI.
 
 ## Javascript
 ### crowdy 
