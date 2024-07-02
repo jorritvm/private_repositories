@@ -1,15 +1,16 @@
-# private_repositories
-Overview of some projects available in my **private** repositories. Will only be made available for very specific requests (e.g. in the context of selection interviews).
+# Private Repositories
+Overview of some projects available in my **private** repositories.   
+Will only be made available for very specific requests (e.g. in the context of interviews).
 
 ## Scala
 ### siam
-A scala implementation of the Siam game
+A scala implementation of the Siam game.
 
 ### acycliq_cq_engine
 A Query Engine for Acyclic Conjunctive Queries using an Apache Arrow in memory database.
 
 ### attraction_park_planner
-A Scala vector graphics attraction planner based on the MoVe project.
+A vector graphics attraction planner based on the MoVe project.
 
 ## Java
 ### wikisearch
@@ -24,7 +25,11 @@ A microservice architecture for head counting on webcam pictures using Tensorflo
 
 ## Erlang
 ### twitterlike 
-A multicore microblogging system inspired by twitter
+A multicore microblogging system inspired by twitter.
+
+## OpenCL
+### counting_stars
+An OpenCL implementation to count stars on astral images using GPU computing.
 
 ## Scheme
 ### cps-generator
