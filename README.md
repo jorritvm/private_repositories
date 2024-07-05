@@ -31,6 +31,10 @@ A multicore microblogging system inspired by twitter.
 ### counting_stars
 An OpenCL implementation to count stars on astral images using GPU computing.
 
+## Clojure
+### ecommerce
+Parallel customer handling for an ecommerce system in clojure using software transactional memory (STM).
+
 ## Scheme
 ### cps-generator
 A scheme compiler written in scheme using the continuation passing style with support for generators.
