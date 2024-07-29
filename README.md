@@ -12,6 +12,9 @@ A Query Engine for Acyclic Conjunctive Queries using an Apache Arrow in memory d
 ### attraction_park_planner
 A vector graphics attraction planner based on the MoVe project.
 
+### multivariate_linear_regression
+Implementation of a multivariate linear regression algorithm using gradient descent and Apache Spark.
+
 ## Java
 ### wikisearch
 Parallelizing the Wikipedia search engine using Fork-Join.
