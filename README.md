@@ -15,6 +15,12 @@ A vector graphics attraction planner based on the MoVe project.
 ### multivariate_linear_regression
 Implementation of a multivariate linear regression algorithm using gradient descent and Apache Spark.
 
+### ncaa_basketball_streams
+Streaming data analysis using the Akka Streams framework.
+
+### online_auction_system
+An online ebay-like auction system built using Akka Actors.
+
 ## Java
 ### wikisearch
 Parallelizing the Wikipedia search engine using Fork-Join.
