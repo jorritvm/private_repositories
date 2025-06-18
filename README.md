@@ -32,6 +32,9 @@ Implementating a distributed wikipedia article store using Java RMI.
 ### crowdy 
 A microservice architecture for head counting on webcam pictures using Tensorflow.
 
+### secure_chat
+A client-server secure chat application using TLS, bcrypt hashing, E2EE, Redis for persistence and an Electron client.
+
 ## Erlang
 ### twitterlike 
 A multicore microblogging system inspired by twitter.
